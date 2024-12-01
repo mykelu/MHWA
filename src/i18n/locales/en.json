@@ -1,0 +1,44 @@
+{
+  "dashboard": {
+    "welcome": "Welcome back",
+    "feelingPrompt": "How are you feeling today?",
+    "trackMood": "Track Mood",
+    "takeAssessment": "Take Assessment",
+    "startBreathing": "Start Breathing"
+  },
+  "mood": {
+    "trackTitle": "Track Your Mood",
+    "howAreYou": "How are you feeling?",
+    "note": "Add a note (optional)",
+    "notePlaceholder": "What's on your mind?",
+    "activities": "What have you been doing?",
+    "submit": "Save Mood",
+    "selectMood": "Please select your mood"
+  },
+  "activities": {
+    "exercise": "Exercise",
+    "meditation": "Meditation",
+    "reading": "Reading",
+    "socializing": "Socializing",
+    "work": "Work"
+  },
+  "breathing": {
+    "phases": {
+      "inhale": "Inhale",
+      "hold": "Hold",
+      "exhale": "Exhale",
+      "holdEmpty": "Hold"
+    },
+    "cycle": "Cycle"
+  },
+  "journal": {
+    "todayPrompt": "Today's Journal Prompt",
+    "contentRequired": "Please write something",
+    "writingPlaceholder": "Start writing here...",
+    "save": "Save Entry"
+  },
+  "common": {
+    "submitting": "Submitting...",
+    "saving": "Saving..."
+  }
+}
